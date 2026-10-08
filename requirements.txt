@@ -1,9 +1,0 @@
-# Tested against the Qiskit 2.x-compatible Qiskit Machine Learning API.
-qiskit>=2.0,<3.0
-qiskit-machine-learning>=0.9,<0.10
-numpy>=1.26
-scikit-learn>=1.5
-matplotlib>=3.8
-streamlit>=1.40
-pandas>=2.2
-jupyter>=1.1
