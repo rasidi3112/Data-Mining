@@ -44,3 +44,8 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Output notebook Level 5 (model, log eksperimen, model card)
+artifacts/
+*.joblib
+.pytest_cache/
